@@ -5,7 +5,7 @@ services:
 
 
 before_install:
-  - docker build -t asinghde/docker-react -f Dockerfile.dev .
+  - docker build -t asinghde/docker-react  .
 
 
 script:
