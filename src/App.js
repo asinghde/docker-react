@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Anupam is back without  rebuild v6.3
+         Anupam is back without  rebuild v6.3 from Feature
         </p>
         <a
           className="App-link"
