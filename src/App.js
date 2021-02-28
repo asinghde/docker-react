@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Anupam is back without  rebuild v6.3 from Feature
+         Anupam is back without  rebuild v6.3 from Feature <br>
+         This is a new line and new beanstalk
         </p>
         <a
           className="App-link"
